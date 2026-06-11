@@ -1,17 +1,74 @@
-# melodix
+# 🎵 Soniqo
 
-A new Flutter project.
+Soniqo adalah aplikasi desktop music player yang dikembangkan menggunakan Flutter dengan dukungan tampilan lirik karaoke, playlist, dan manajemen musik dalam antarmuka modern.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 🎶 Memutar file musik lokal
+- 🎤 Tampilan lirik karaoke
+- 📂 Manajemen playlist
+- 🖼️ Dukungan album artwork
+- 🔍 Pencarian lagu
+- 📤 Berbagi lirik
+- 💻 Antarmuka desktop modern
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Built With
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Windows Desktop
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📁 Project Structure
+
+```text
+lib/
+├── widgets/
+├── models/
+├── services/
+└── main.dart
+
+assets/
+windows/
+test/
+```
+
+## 🚀 Getting Started
+
+Clone repository:
+
+```bash
+git clone https://github.com/arya-yoga-pratama/soniqo.git
+```
+
+Masuk ke folder project:
+
+```bash
+cd soniqo
+```
+
+Install dependencies:
+
+```bash
+flutter pub get
+```
+
+Jalankan aplikasi:
+
+```bash
+flutter run
+```
+
+## 🎯 Project Goal
+
+Soniqo dibuat sebagai proyek pengembangan aplikasi desktop berbasis Flutter yang berfokus pada pengalaman mendengarkan musik dengan dukungan tampilan lirik karaoke yang interaktif.
+
+## 👨‍💻 Author
+
+**Arya Yoga Pratama**
+
+GitHub:
+https://github.com/arya-yoga-pratama
+
+---
+
+⭐ Jika project ini bermanfaat, jangan lupa berikan star pada repository.
