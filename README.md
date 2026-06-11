@@ -2,6 +2,24 @@
 
 Soniqo adalah aplikasi desktop music player yang dikembangkan menggunakan Flutter dengan dukungan tampilan lirik karaoke, playlist, dan manajemen musik dalam antarmuka modern.
 
+## 📸 Screenshots
+
+### 🏠 Home
+
+![Home](assets/screenshots/home.png)
+
+### 🎤 Karaoke Lyrics
+
+![Karaoke](assets/screenshots/karaoke.png)
+
+### 📚 Library
+
+![Library](assets/screenshots/library.png)
+
+### 📤 Share Lyrics
+
+![Share Lyrics](assets/screenshots/sharelirik.png)
+
 ## ✨ Features
 
 - 🎶 Memutar file musik lokal
